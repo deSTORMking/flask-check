@@ -1,0 +1,18 @@
+body{
+    padding :50px 0px 0px 0px;
+    z-index: 0;
+  }
+.form{
+  border:rgb(58, 55, 55) solid 2px;
+}
+.first{
+    padding-top:60px;
+    border-top: #444 solid;
+}
+div.stars {
+  width: 270px;
+  display: inline-block;
+}
+.checked{
+  color:rgb(175, 147, 20);
+}
